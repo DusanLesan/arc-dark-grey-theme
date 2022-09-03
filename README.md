@@ -1,3 +1,9 @@
+## Differences compared to forked repository
+#### `dark` variant is modified:
+* `base_color` is set to ` #181818`
+* `bg_color` is set to `#1E1E1E`
+* `button_bg`, `selected_bg_color`, and `suggested_color` are set to `#005577`
+
 # Arc Theme
 
 Arc is a flat theme with transparent elements for GTK 3, GTK 2 and various desktop shells, window managers and applications. It's well suited for GTK based desktop environments such as GNOME, Cinnamon, Xfce, Unity, MATE, Budgie etc.
